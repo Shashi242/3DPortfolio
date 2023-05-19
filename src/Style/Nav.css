@@ -1,0 +1,22 @@
+.nav_bg{
+    background-color: rgba(27, 27, 78, 0.3);
+    box-shadow: 0 0 6px black;
+}
+
+.nav_text{
+    width: 80px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.nav_text:hover{
+    background-color: rgba(19, 114, 35, 0.1);
+    color: yellow;
+}
+
+.img_logo{
+    border-radius: 50%;
+}
